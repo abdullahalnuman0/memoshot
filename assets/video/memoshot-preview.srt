@@ -1,0 +1,36 @@
+1
+00:00:00,200 --> 00:00:02,259
+Your screenshots are full of things you need.
+
+2
+00:00:02,900 --> 00:00:05,574
+Memoshot reads the text inside every screenshot.
+
+3
+00:00:07,433 --> 00:00:10,109
+So one word finds the password you saved.
+
+4
+00:00:11,200 --> 00:00:14,106
+Copy a flight number, or add the date to your calendar.
+
+5
+00:00:15,767 --> 00:00:18,512
+Receipts, tickets and codes sort themselves.
+
+6
+00:00:20,967 --> 00:00:23,892
+Clear old codes and duplicates, only when you say so.
+
+7
+00:00:26,000 --> 00:00:28,634
+Your screenshots and their text stay on your phone.
+
+8
+00:00:29,300 --> 00:00:31,417
+And search works even in airplane mode.
+
+9
+00:00:33,617 --> 00:00:36,767
+Memoshot. Find any screenshot by what's in it.
+
